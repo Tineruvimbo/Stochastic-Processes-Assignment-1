@@ -1,3 +1,4 @@
+#TINERUVIMBO C  MAHACHI R229126H HDSC
 #A1.	Define the matrix:
 P <- matrix(c(
   1,   0,   0,   0,   0,
